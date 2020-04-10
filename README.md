@@ -1,4 +1,4 @@
-**Docker Telegram Sonarr Bot**
+**Docker Telegram Radarr Bot**
 
 Docker image based for running this telegram bot for sonarr 
 
