@@ -2,7 +2,7 @@
 
 Docker image based for running this telegram bot for sonarr 
 
-https://github.com/onedr0p/telegram-sonarr-bot
+https://github.com/imran0/telegram-radarr-bot
 
 **How to run**
 
