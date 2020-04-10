@@ -2,7 +2,7 @@
 
 Docker image based for running this telegram bot for sonarr 
 
-https://github.com/imran0/telegram-radarr-bot
+https://github.com/bizkut/telegram-radarr-bot
 
 **How to run**
 
@@ -32,7 +32,7 @@ Create this file /some/path/config.json with this content:
 
 Most important, change the telegram bot token, password, the sonarr api key and the hostname, fill the rest of the settings if you use ssl and/or authentication
 
-```docker run -d --name=telegram-bot --restart=always -v /some/path:/config subzero79/docker-telegram-sonarr-bot```
+```docker run -d --name=telegram-bot --restart=always -v /some/path:/config bizkut/docker-telegram-radarr-bot```
 
 You should be able to see the bot response log with ```docker logs telegram-bot```
 
